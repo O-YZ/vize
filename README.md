@@ -1,0 +1,2 @@
+# vize
+vize ödevi
